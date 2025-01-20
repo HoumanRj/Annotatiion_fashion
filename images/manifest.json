@@ -7,5 +7,87 @@
             "All images loaded in HoumanRj/Annotatiion_fashion project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://HoumanRj.github.io/Annotatiion_fashion/images/pexels-solliefoto-298863/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pexels-solliefoto-298863"
+                ]
+            },
+            "height": 3744,
+            "width": 5616,
+            "items": [
+                {
+                    "id": "https://HoumanRj.github.io/Annotatiion_fashion/images/pexels-solliefoto-298863/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://HoumanRj.github.io/Annotatiion_fashion/images/pexels-solliefoto-298863/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://HoumanRj.github.io/Annotatiion_fashion/images/pexels-solliefoto-298863/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 176,
+                                                "height": 117
+                                            },
+                                            {
+                                                "width": 351,
+                                                "height": 234
+                                            },
+                                            {
+                                                "width": 702,
+                                                "height": 468
+                                            },
+                                            {
+                                                "width": 1404,
+                                                "height": 936
+                                            },
+                                            {
+                                                "width": 2808,
+                                                "height": 1872
+                                            },
+                                            {
+                                                "width": 5616,
+                                                "height": 3744
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5616,
+                                        "@id": "https://HoumanRj.github.io/Annotatiion_fashion/images/pexels-solliefoto-298863",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3744,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://HoumanRj.github.io/Annotatiion_fashion/images/pexels-solliefoto-298863/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
