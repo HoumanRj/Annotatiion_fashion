@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://HoumanRj.github.io/Annotatiion_fashion/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in HoumanRj/Annotatiion_fashion project"
+        ]
+    },
+    "items": []
+}
